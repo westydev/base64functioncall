@@ -1,11 +1,11 @@
 ## Install
 ```
-$ npm install --save-dev js-base64-caller
+$ npm install --save-dev js-base64functionhook
 ```
 
 ## Call Function Usage
 ```js
-const { FunctionEncypt } = require("./src/FunctionEncrypt");
+const { FunctionEncypt } = require("base64functionhook");
 
 async function Main() {
     /* Original Function
@@ -25,7 +25,7 @@ Main();
 ## Code To Base64 Usege
 
 ```js
-const { FunctionEncypt } = require("./main");
+const { FunctionEncypt } = require("base64functionhook");
 
 
 async function Main() {
@@ -48,7 +48,7 @@ Main()
 
 ## Call Base64 Code
 ```js
-const { FunctionEncypt } = require("./main")
+const { FunctionEncypt } = require("base64functionhook")
 const fs = require("fs");
 
 async function Main() {
