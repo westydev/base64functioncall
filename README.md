@@ -3,7 +3,7 @@
 $ npm install --save-dev js-base64-caller
 ```
 
-## Usage
+## Call Function Usage
 ```js
 const { FunctionEncypt } = require("./src/FunctionEncrypt");
 
